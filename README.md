@@ -5,6 +5,7 @@
 Run the following task to start up a blockchain locally:
 
 ```shell
+npm install
 npx hardhat node
 ```
 
